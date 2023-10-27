@@ -1,2 +1,2 @@
 # 传送门
-https://nianlun.github.io/
+https://nianlunai.github.io/nianlun.github.io/
