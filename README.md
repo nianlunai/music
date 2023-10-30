@@ -1,2 +1,2 @@
 # 传送门
-https://nianlunai.github.io/nianlun.github.io/
+https://nianlunai.github.io/music
