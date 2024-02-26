@@ -10,7 +10,7 @@ const title = document.getElementById("title")
 const musicCover = document.getElementById("music-cover")
 
 // 音乐信息
-const songs = ["晴天-周杰伦", "打上花火", "邓紫棋-多远都要在一起","张杰-这就是爱"]
+const songs = ["万有引力-汪苏泷","年轮-汪苏泷","小星星-汪苏泷","晴天-周杰伦", "打上花火", "邓紫棋-多远都要在一起","张杰-这就是爱"]
 // 默认从第一首开始
 let songIndex = 0;
 // 将歌曲细节加载到DOM
